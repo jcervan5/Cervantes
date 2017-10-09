@@ -102,6 +102,10 @@ p{
 	padding:280px 0;
 }
 
+.copy{
+  margin-right: 100px;
+  width: 400px;
+}
 .jcnav{
   width:100px;
 	margin:0 auto 10px;
@@ -169,7 +173,7 @@ color: #fff;
 }
 
 .link:active, .link:focus {
-	background: #7cc576;
+	background:#222222;
 	text-decoration:none;
 	color:#fff !important;
 }
@@ -208,7 +212,7 @@ color: #fff;
 
 .main-nav li a:hover{
 	text-decoration:none;
-	color: #7cc576;
+	color: #27eced;
 }
 
 .small-logo{
@@ -251,7 +255,7 @@ color: #fff;
 ---------------------------------*/
 .featured-work{
 	font-size:14px;
-  padding: 50px;
+  padding: 70px;
 }
 .featured-work h2{
 	text-align:left;
